@@ -4,7 +4,7 @@ package com.gulu.chapter11
  * @author chocolate
  *         2024/2/21 17:51
  */
-object Scala_01_Genericity {
+object Scala_01_Genericity  {
 
   // TODO: Scala的泛型
   //  【协变】：泛型前面使用+，泛型子类转为该泛型
